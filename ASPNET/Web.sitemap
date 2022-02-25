@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="default.aspx" title="Pagina de Inicio"  description="Inicio">
+
+      <siteMapNode title ="Informacion General" description ="Informacion General">
+
+        <siteMapNode url="General/AcercaDe.aspx" title="Acerca de"  description="Acerca de" />
+        <siteMapNode url="General/Contactenos.aspx" title="Contacenos"  description="Contactenos" />
+        <siteMapNode url="General/ComoEncontranos.aspx" title="Como Encontrarnos"  description="Como Encontrarnos" />
+
+
+      </siteMapNode>
+
+      <siteMapNode title="Informacion de Venta" description ="Informacion de Venta">
+         
+        <siteMapNode url="General/Productos_Domesticos.aspx" title="Productos Domesticos"  description="Productos Domesticos" />
+        <siteMapNode url="General/Tiendas.aspx" title="Tiendas"  description="Tiendas" />
+
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>images/eskimo.jpg</ImageUrl>
+    <NavigateUrl>www.eskimo.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/staff.jpg</ImageUrl>
+    <NavigateUrl>www.microsoft.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/logo_ruta_maya.jpg</ImageUrl>
+    <NavigateUrl>www.rutamaya.com</NavigateUrl>
+  </Ad>
+</Advertisements>
